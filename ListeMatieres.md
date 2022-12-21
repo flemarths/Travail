@@ -54,15 +54,15 @@ Liste des Matières
 
 12. Projet Voltaire
 
-    *[site](https://www.projet-voltaire.fr/voltaire/com.woonoz.gwt.woonoz.Voltaire/Voltaire.html?returnUrl=www.projet-voltaire.fr/choix-parcours/&applicationCode=pv)
+    * [site](https://www.projet-voltaire.fr/voltaire/com.woonoz.gwt.woonoz.Voltaire/Voltaire.html?returnUrl=www.projet-voltaire.fr/choix-parcours/&applicationCode=pv)
 
 13. ASLC
 
-    *[Drive](https://drive.google.com/drive/folders/1wFmyhqZHFtFsxgXa341ZI03sxSqsCCQ_)
+    * [Drive](https://drive.google.com/drive/folders/1wFmyhqZHFtFsxgXa341ZI03sxSqsCCQ_)
 
 14. Interface et Communication
 
-    *Cours non dispo
+    * Cours non dispo
 
 15. Physique appliquée
 
@@ -70,27 +70,27 @@ Liste des Matières
 
 16. Projet Pro
 
-    *Cours non dispo
+    * Cours non dispo
 
 17. Analyse valeur
 
-    *[Cours](https://e-formation.uha.fr/course/view.php?id=1073)
-    *[Drive](https://drive.google.com/drive/folders/1WfAM1LQuktjXGSy1jiM1dDQiG4w9UIdV)
+    * [Cours](https://e-formation.uha.fr/course/view.php?id=1073)
+    * [Drive](https://drive.google.com/drive/folders/1WfAM1LQuktjXGSy1jiM1dDQiG4w9UIdV)
 
 18. Electronique Numérique
 
-    *[Cours](https://e-formation.uha.fr/course/view.php?id=1202)
+    * [Cours](https://e-formation.uha.fr/course/view.php?id=1202)
     * [Drive](https://drive.google.com/drive/folders/1gNHYwonbsvDhpgPZre0elZxMI01C7Rs6)
 
 19. Introduction au réseaux
 
-    *[Cours](https://e-formation.uha.fr/course/view.php?id=2997)
+    * [Cours](https://e-formation.uha.fr/course/view.php?id=2997)
     * [Drive](https://drive.google.com/drive/folders/1VfFRPvLYTUZ8Co2Y1kl-3RaOK3gC3DTa)
 
 20. Outils de présentation numérique
 
-    *TD non dispo
+    * TD non dispo
 
 21. Projet Système embarqué V
 
-    *TP non dispo
+    * TP non dispo
